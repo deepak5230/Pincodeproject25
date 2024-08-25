@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Pincodeproject25/static/css/main.58363f17.css",
-    "main.js": "/Pincodeproject25/static/js/main.6196eea7.js",
+    "main.js": "/Pincodeproject25/static/js/main.75746895.js",
     "index.html": "/Pincodeproject25/index.html",
     "main.58363f17.css.map": "/Pincodeproject25/static/css/main.58363f17.css.map",
-    "main.6196eea7.js.map": "/Pincodeproject25/static/js/main.6196eea7.js.map"
+    "main.75746895.js.map": "/Pincodeproject25/static/js/main.75746895.js.map"
   },
   "entrypoints": [
     "static/css/main.58363f17.css",
-    "static/js/main.6196eea7.js"
+    "static/js/main.75746895.js"
   ]
 }
